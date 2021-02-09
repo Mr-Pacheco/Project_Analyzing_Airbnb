@@ -1,5 +1,7 @@
 # Project - Analyzing Airbnb data
+
 <center><img alt="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
+
 In this project, I analyzed the data from Airbnb related to the city of Montreal, Canada. 
 In general, I extract all the data from the web, then I cleaned the informations, next I did some analysis.
 
