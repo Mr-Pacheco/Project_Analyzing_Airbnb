@@ -4,6 +4,6 @@ In general, I extract all the data from the web, then I cleaned the informations
 
 First, All data used here was obtained from the website Airbnb.
 
-After that, I started looking at the data to find and some errors that I can solve. I used some techniques to clean the data.
+Then, I started looking at the data to find and some errors that I can solve. I used some techniques to clean the data.
 
-Then, the analysis is possible without problems, I used graphics to find insights and good information that is the goal of the project
+After that, the analysis is possible without problems, I used graphics to find insights and good information that is the goal of the project.
