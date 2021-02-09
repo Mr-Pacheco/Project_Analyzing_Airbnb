@@ -1,5 +1,5 @@
 # Project - Analyzing Airbnb data
-In this project, I analyzed the data from Airbnb related to the city of Vancouver, Canada. 
+In this project, I analyzed the data from Airbnb related to the city of Montreal, Canada. 
 In general, I extract all the data from the web, then I cleaned the informations, next I did some analysis.
 
 First, All data used here was obtained from the website Airbnb.
