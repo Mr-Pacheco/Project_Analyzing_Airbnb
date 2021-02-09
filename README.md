@@ -11,7 +11,7 @@ Then, I started looking at the data to find and some errors that I can solve. I 
 
 After that, the analysis is possible without problems, I used graphics to find insights and good information that is the goal of the project.
 
-<center><img alt="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
+<p align="center"><img alt="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></p>
 
 <p align="center">
   <img src="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg">
