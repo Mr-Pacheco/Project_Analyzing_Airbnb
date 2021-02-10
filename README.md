@@ -11,13 +11,5 @@ After that, the analysis is possible without problems, I used graphics to find i
 
 <p align="center"><img alt="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></p>
 
-![GitHub Logo](https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png)
+![Canada image](https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png)
 Format: ![Alt Text](https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png)
-
-<img
-src=“https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-
