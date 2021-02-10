@@ -12,5 +12,5 @@ Then, I started looking at the data to find and some errors that I can solve. I 
 After that, the analysis is possible without problems, I used graphics to find insights and good information that is the goal of the project.
 
 <p align="center">
-<img width = "10%" src="https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png">
+<img width = "40%" src="https://etacanadavisa.com.br/main/wp-content/uploads/2017/07//1500641620_image1-1280x720.png">
 </p>
